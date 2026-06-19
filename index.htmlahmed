@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>غريب الغريب</title>
+<style>
+body{
+    font-family: Arial;
+    text-align:center;
+    background:#111;
+    color:white;
+    padding:30px;
+}
+a{
+    display:block;
+    background:#222;
+    color:white;
+    text-decoration:none;
+    margin:10px auto;
+    padding:15px;
+    width:300px;
+    border-radius:10px;
+}
+a:hover{
+    background:#444;
+}
+</style>
+</head>
+<body>
+
+<h1>غريب الغريب</h1>
+<p>جميع الحسابات الرسمية</p>
+
+<a href="https://youtube.com/@ghareeb.algareb">YouTube</a>
+<a href="https://www.facebook.com/share/1Aq2naWkVB/">الحساب الشخصي</a>
+<a href="https://www.facebook.com/share/1GU9wNxFPu/">الحساب الاحتياطي</a>
+<a href="https://www.facebook.com/profile.php?id=100054835844583">سيف الله الغريب</a>
+<a href="https://www.facebook.com/ghareeb.alghareb2">الصفحة الرئيسية</a>
+<a href="https://www.facebook.com/profile.php?id=61584458506240">حلول</a>
+<a href="https://www.facebook.com/ElqahiryaNews">حديث وطن</a>
+<a href="https://www.tiktok.com/@ghareeb.algareb">TikTok</a>
+<a href="https://www.instagram.com/ghareeb.algareb">Instagram</a>
+
+</body>
+</html>
